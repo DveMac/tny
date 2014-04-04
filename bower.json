@@ -1,0 +1,26 @@
+{
+  "name": "tny.js",
+  "main": "./dist/index.js",
+  "version": "0.0.1",
+  "authors": [
+    "@DveMac"
+  ],
+  "description": "A tiny javascript utility belt",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "utility",
+    "tools"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
