@@ -1,0 +1,27 @@
+{
+  "name": "tiny-utils",
+  "main": "./index.js",
+  "browser": "./index.min.js",
+  "version": "0.0.2",
+  "authors": [
+    "@DveMac"
+  ],
+  "description": "A tiny javascript utility belt",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "tiny",
+    "utility",
+    "tools"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

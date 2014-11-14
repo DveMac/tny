@@ -1,7 +1,8 @@
 {
-  "name": "tny.js",
-  "main": "./dist/index.js",
-  "version": "0.0.1",
+  "name": "tiny-utils",
+  "main": "./index.js",
+  "browser": "./index.min.js",
+  "version": "0.0.2",
   "authors": [
     "@DveMac"
   ],
@@ -12,12 +13,12 @@
     "node"
   ],
   "keywords": [
+    "tiny",
     "utility",
     "tools"
   ],
   "license": "MIT",
   "ignore": [
-    "**/.*",
     "node_modules",
     "bower_components",
     "test",

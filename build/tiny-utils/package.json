@@ -1,0 +1,17 @@
+{
+  "name": "tiny-utils",
+  "version": "0.0.2",
+  "description": "A tiny javascript utility belt",
+  "main": "./index.min.js",
+  "devDependencies": {
+    "jshint": "~2.5.0",
+    "uglifyjs": "~2.3.6"
+  },
+  "keywords": [
+    "tiny",
+    "utility",
+    "tools"
+  ],
+  "author": "",
+  "license": "ISC"
+}

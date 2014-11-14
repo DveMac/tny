@@ -1,17 +1,14 @@
 {
-  "name": "tny.js",
-  "version": "0.0.1",
+  "name": "tiny-utils",
+  "version": "0.0.2",
   "description": "A tiny javascript utility belt",
-  "main": "./dist/index.js",
-  "dependencies": {
+  "main": "./index.min.js",
+  "devDependencies": {
     "jshint": "~2.5.0",
     "uglifyjs": "~2.3.6"
   },
-  "devDependencies": {},
-  "scripts": {
-    "test": "npm test"
-  },
   "keywords": [
+    "tiny",
     "utility",
     "tools"
   ],
